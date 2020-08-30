@@ -1,0 +1,13 @@
+green
+teal
+gray
+blue
+black
+circle
+rectangle
+yes
+brown
+triangle
+no
+yellow
+red
