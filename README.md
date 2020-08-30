@@ -5,11 +5,17 @@ The code is the reproduce of others' work on VQA. The dataset is a simplified sy
 
 Run:
 
-pip install -r requirement.txt        //install the requirements
+pip install -r requirement.txt      
 
-python gen_data/generate_data.py       //you can change NUM_TRAIN and NUM_TEST in generate_data.py to change the number of training set and testing set. This step can be ignored because there are already 8000 training images and 2000 testing images. The data are generated in the file data/train/ and data/test/ respectively
+//install the requirements
 
-python train.py        //train the model for 10 epochs, derieve model.h5; you can change epochs in train.py to control the number of epochs; the process of training can be found in EC601_VQA_Jiaming Yu(U72316560).pdf
+python gen_data/generate_data.py      
+
+//you can change NUM_TRAIN and NUM_TEST in generate_data.py to change the number of training set and testing set. This step can be ignored because there are already 8000 training images and 2000 testing images. The data are generated in the file data/train/ and data/test/ respectively
+
+python train.py      
+
+//train the model for 10 epochs, derieve model.h5; you can change epochs in train.py to control the number of epochs; the process of training can be found in EC601_VQA_Jiaming Yu(U72316560).pdf
 
 After 8 epochs training, the accuracy of the model reaches 76 percent on testing set. Then we generate another different 4k images training set and 1k testing set and train the model again for 10 epochs. The accuracy reaches 84 percent. Then we generate 8k images training set and 2k testing set and train the model for 10 epochs. The accuracy reaches 99 percent.
 
