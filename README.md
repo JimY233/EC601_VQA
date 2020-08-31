@@ -20,6 +20,7 @@ After 8 epochs training, the accuracy of the model reaches 76 percent on testing
 
 
 REFERENCES:
+
 [1] M. Acharya, K. Kafle, and C. Kanan. Tallyqa: Answering complex
 counting questions. In Proceedings of the AAAI Conference on Artificial
 Intelligence, volume 33, pages 8076–8084, 2019.
