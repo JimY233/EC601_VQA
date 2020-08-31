@@ -23,50 +23,62 @@ REFERENCES:
 [1] M. Acharya, K. Kafle, and C. Kanan. Tallyqa: Answering complex
 counting questions. In Proceedings of the AAAI Conference on Artificial
 Intelligence, volume 33, pages 8076–8084, 2019.
+
 [2] P. Anderson, X. He, C. Buehler, D. Teney, M. Johnson, S. Gould, and
 L. Zhang. Bottom-up and top-down attention for image captioning
 and visual question answering. In Proceedings of the IEEE conference
 on computer vision and pattern recognition, pages 6077–6086, 2018.
+
 [3] J. Andreas, M. Rohrbach, T. Darrell, and D. Klein. Deep compositional
 question answering with neural module networks. corr abs/1511.02799
 (2015). arXiv preprint arXiv:1511.02799, 2015.
+
 [4] S. Antol, A. Agrawal, J. Lu, M. Mitchell, D. Batra, C. L. Zitnick, and
 D. Parikh. Vqa: Visual question answering. In Proceedings of the
 IEEE International Conference on Computer Vision (ICCV), December
 2015.
+
 [5] A. Das, S. Kottur, K. Gupta, A. Singh, D. Yadav, J. M. Moura, D. Parikh,
 and D. Batra. Visual dialog. In Proceedings of the IEEE Conference
 on Computer Vision and Pattern Recognition, pages 326–335, 2017.
+
 [6] Y. Goyal, T. Khot, D. Summers-Stay, D. Batra, and D. Parikh. Making
 the v in vqa matter: Elevating the role of image understanding in
 visual question answering. In Proceedings of the IEEE Conference on
 Computer Vision and Pattern Recognition, pages 6904–6913, 2017.
+
 [7] J. Johnson, B. Hariharan, L. van der Maaten, L. Fei-Fei,
 C. Lawrence Zitnick, and R. Girshick. Clevr: A diagnostic dataset
 for compositional language and elementary visual reasoning. In
 Proceedings of the IEEE Conference on Computer Vision and Pattern
 Recognition, pages 2901–2910, 2017.
+
 [8] K. Kafle and C. Kanan. Visual question answering: Datasets, algorithms,
 and future challenges. Computer Vision and Image Understanding,
 163:3–20, 2017.
+
 [9] R. Shrestha, K. Kafle, and C. Kanan. Answer them all! toward
 universal visual question answering models. In Proceedings of the
 IEEE conference on computer vision and pattern recognition, pages
 10472–10481, 2019.
+
 [10] Y. Srivastava, V. Murali, S. R. Dubey, and S. Mukherjee. Visual
 question answering using deep learning: A survey and performance
 analysis. arXiv preprint arXiv:1909.01860, 2019.
+
 [11] P. Wang, Q. Wu, C. Shen, A. Dick, and A. van den Hengel. Fvqa:
 Fact-based visual question answering. IEEE transactions on pattern
-analysis and machine intelligence, 40(10):2413–2427, 2018.
-6
+analysis and machine intelligence, 40(10):2413–2427, 2018.6
+
 [12] Q. Wu, D. Teney, P. Wang, C. Shen, A. Dick, and A. van den Hengel.
 Visual question answering: A survey of methods and datasets. Computer
 Vision and Image Understanding, 163:21–40, 2017.
+
 [13] K. Xu, J. Ba, R. Kiros, K. Cho, A. Courville, R. Salakhudinov, R. Zemel,
 and Y. Bengio. Show, attend and tell: Neural image caption generation
 with visual attention. In International conference on machine learning,
 pages 2048–2057, 2015.
+
 [14] Y. Zhang, J. Hare, and A. Prugel-Bennett. Learning to count objects ¨
 in natural images for visual question answering. arXiv preprint
 arXiv:1802.05766, 2018.
