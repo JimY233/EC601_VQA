@@ -3,7 +3,7 @@ Please read EC601_VQA_Jiaming Yu(U72316560).pdf first.
 
 In this paper, we would review and explore VQA: Visual Question Answering. The first part of paper is the literature review of VQA, introducing VQA including its related work, common methods and dataset. This paper also reviews and reproduces others' approach on VQA. In this paper, we also explore the user cases of VQA like aided-navigation for blind individuals, image retrieval,automatic querying and so on. Besides, we analyze the current VQA and future work.
 
-The code is the reproduce of others' work on VQA. The dataset is a simplified synthetic 2D images along with simple questions. The answer to the questions are limited to yes/no, colors and shapes. The model is a simplified joint embedding approach of CNN processing images and Bags of Words representations turning questions to vectors.
+The code is the reproduce of others' work on VQA. The dataset is a simplified synthetic 2D images along with simple questions. The answer to the questions are limited to yes/no, colors and shapes. The model is a simplified joint embedding approach of CNN processing images and Bags of Words representations turning questions to vectors. This model is sourced from https://victorzhou.com/blog/easy-vqa/
 
 Run:
 
